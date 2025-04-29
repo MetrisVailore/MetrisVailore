@@ -10,7 +10,7 @@
 - Cosmos Tactic (telegram 3d miniapp)
 - Realm Rivals (geolocation with territories capture)
 - PON (proof of nodes, basically trying to force not creating alternative chains and with custom bft)
-- And bunch of others projects, that i am did to learn programming
+- And bunch of others projects, that I did to learn programming
 
 ### Future projects
 - POEW (proof of everyone's work)
