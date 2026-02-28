@@ -5,6 +5,7 @@
 ### I am working on ...
 - [AI] Fine-tuning and new architecture
 - New type of p2p network
+- bunch of bots (discord, telegram)
 - [AploCoin - cryptocurrency](https://github.com/AploCoin) - as a helper dev
 
 ### I like
