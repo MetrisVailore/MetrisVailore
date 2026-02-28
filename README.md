@@ -3,7 +3,7 @@
 
 ## Things I am passionate about
 ### I am working on ...
-- [AploCoin](https://github.com/AploCoin)
+- [AploCoin - cryptocurrency](https://github.com/AploCoin)
 - [AI] Fine-tuning and new architecture
 - New type of p2p network
 
