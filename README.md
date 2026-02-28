@@ -3,7 +3,7 @@
 
 ## Things I am passionate about
 ### I am working on ...
-- [AI] Fine-tuning and new architecture
+- Fine-tuning an existing models and creating new architecture, instead of backpropogation
 - New type of p2p network
 - bunch of bots (discord, telegram)
 - [AploCoin - cryptocurrency](https://github.com/AploCoin) - as a helper dev
