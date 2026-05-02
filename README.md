@@ -3,7 +3,7 @@
 
 ## Things I am passionate about
 ### I am working on ...
-- Fine-tuning an existing models and creating new architecture, instead of backpropogation
+- Fine-tuning an existing models
 - New type of p2p network
 - bunch of bots (discord, telegram)
 - [AploCoin - cryptocurrency](https://github.com/AploCoin) - as a helper dev
@@ -17,7 +17,6 @@
 ## Projects
 ### Frozen projects
 - Avercoin
-- PON (proof of nodes, basically trying to force not creating alternative chains and with custom bft)
 - And bunch of others projects
 
 ### Future projects
