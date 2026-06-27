@@ -3,16 +3,16 @@
 
 ## Things I am passionate about
 ### I am working on ...
-- Fine-tuning an existing models
+- Fine-tuning existing models
 - New type of p2p network
 - bunch of bots (discord, telegram)
 - [AploCoin - cryptocurrency](https://github.com/AploCoin) - as a helper dev
 
 ### I like
 - blockchain and smartcontracts idea
-- AI (not just chatbots or generative ai)
+- AI & ML (not just chatbots or generative ai)
 - Decentralization of everything (except where it is not useful)
-- Cryptocurrency as a initial idea of an alternative to money with no controlling entity
+- Cryptocurrency as a initial idea of an alternative to fiat money with no controlling entity
 
 ## Projects
 ### Frozen projects
