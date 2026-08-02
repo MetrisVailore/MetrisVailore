@@ -23,7 +23,5 @@
 - POEW (proof of everyone's work)
 - Bunch of other proofs, that maybe I will find time to implement. If not, I will just release them to the public.
 
-## Stats
-![GitHub Streak](https://github-readme-streak-stats-three-nu.vercel.app/?user=MetrisVailore&theme=tokyonight&hide_border=true)
 ###
 ![](https://komarev.com/ghpvc/?username=MetrisVailore&color=blue)
